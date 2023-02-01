@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VAmaze/static/css/main.b4e3e961.css",
+    "main.js": "/VAmaze/static/js/main.63c170a3.js",
+    "static/media/img-2.jpg": "/VAmaze/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-1.jpg": "/VAmaze/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/computer.png": "/VAmaze/static/media/computer.9beb145f1687a9852388.png",
+    "static/media/img-8.jpg": "/VAmaze/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "static/media/Picture1.jpg": "/VAmaze/static/media/Picture1.6ce48f4e09238ccee9cc.jpg",
+    "static/media/network2.jpg": "/VAmaze/static/media/network2.a1883fe5023bb6f61ab3.jpg",
+    "static/media/network.jpg": "/VAmaze/static/media/network.cdc45121359fbac84dba.jpg",
+    "static/media/man.jpg": "/VAmaze/static/media/man.edcde723c6d217507edb.jpg",
+    "static/media/lightbulb.jpg": "/VAmaze/static/media/lightbulb.ddaaef38afaf1d13612f.jpg",
+    "index.html": "/VAmaze/index.html",
+    "main.b4e3e961.css.map": "/VAmaze/static/css/main.b4e3e961.css.map",
+    "main.63c170a3.js.map": "/VAmaze/static/js/main.63c170a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4e3e961.css",
+    "static/js/main.63c170a3.js"
+  ]
+}
