@@ -1,0 +1,79 @@
+.mission-element{
+    position: absolute;
+    top: 80px;
+    left: 150px;
+    width: 330px;
+    height: 180px;
+    border: 3px solid #ffffff;
+    background-color: white;
+    border-bottom-right-radius: 50px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 25px;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+    
+
+}
+
+.typing{
+    position: absolute;
+    padding-top: 10px;
+    padding-left: 800px;
+    padding-bottom: 400px;
+    height: 150vh;
+    right: 200px;
+    top: 800px;
+}
+.mission-element.show {
+    opacity: 1;
+  }
+  
+.mission-element.hide {
+    opacity: 0;
+}
+
+.who{
+    position: absolute;
+    left: 50px;
+    top: 100vh;
+    height: 150vh;
+    border-radius: 20px;
+    box-shadow: 50px;
+    background-color: white;
+    color: rgb(0, 0, 0);
+    box-shadow: 2px 2px 2px 2px rgb(206, 206, 206);
+}
+
+.who-desc{
+    padding-left: 10px;
+    font-size: large;
+    position: absolute;
+    padding-top: 20px;
+    bottom: 0;
+}
+
+.statement{
+    color: grey;
+    font-size: 25px;
+    padding-bottom: 25px;
+}
+.description1{
+    position: absolute;
+    font-size: 30px;
+}
+.description2{
+    position: absolute;
+    bottom: 40px;
+    right: 30px;
+    font-size: 30px;
+}
+
+@media (min-width: 630px) {
+    .who {
+      width: 80vh;
+    }
+    .who-desc{
+        font-size: large;
+    }
+  }

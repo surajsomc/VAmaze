@@ -1,0 +1,43 @@
+.slider-container {
+    position: relative;
+    width: 100%;
+    height: 400px;
+  }
+  
+  .image {
+    width: 100%;
+    height: 80vh;
+    object-fit: cover;
+  }
+  
+  .indicator-container {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    opacity: 0.9;
+  }
+  
+  .indicator {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin: 0px 5px;
+    cursor: pointer;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    opacity: 0.9;
+  }
+  
+  .active {
+    background-color: rgb(28, 124, 226);
+  }
+
+  @media (min-width: 720px) {
+    .image {
+      height: 60vh;
+    }
+  }

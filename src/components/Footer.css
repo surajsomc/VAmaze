@@ -1,0 +1,21 @@
+.footer {
+    background-color: rgb(28, 124, 226);
+    bottom: 0;
+    left: 0;
+    height: 200px;
+    position:relative;
+    right: 0;
+    text-align: center;
+    padding: 1rem;
+  }
+.about{
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+.copyright{
+    position: absolute;
+    right: 50px;
+    bottom: 30px;
+}
+  
